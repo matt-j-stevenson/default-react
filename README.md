@@ -1,3 +1,4 @@
+# Default-React is a stripped-down, bare-bones CRA repo with a few packages installed for preference, notably, SCSS.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
